@@ -1,0 +1,69 @@
+form		- form                                     Defines an HTML form for user input
+input		- input									   Defines an input control
+textarea	- textarea							       Defines a multiline input control (text area)
+button		- button								   Defines a clickable button
+select		- select							       Defines a drop-down list
+optgroup    - optgroup								   Defines a group of related options in a drop-down list
+option		- option								   Defines an option in a drop-down list
+label		- label 								   Defines a label for an <input> element
+fieldset	- fieldset								   Groups related elements in a form
+legend  	- legend								   Defines a caption for a <fieldset> element
+datalist	- datalist								   Specifies a list of pre-defined options for input controls
+output		- output								   Defines the result of a calculation
+iframe		- iframe								   Defines an inline frame
+img			- img									   Defines an image
+map			- map									   Defines a client-side image-map
+area		- area									   Defines an area inside an image-map
+canvas		- canvas								   Used to draw graphics, on the fly, via scripting (usually JavaScript)
+figcaption	- figcaption							   Defines a caption for a <figure> element
+figure		- figure								   Specifies self-contained content
+picture		- picture								   Defines a container for multiple image resources
+svg			- svg									   Defines a container for SVG graphics
+audio		- audio									   Defines sound content
+source		- source								   Defines multiple media resources for media elements (<video>, <audio> and <picture>)
+track		- track									   Defines text tracks for media elements (<video> and <audio>)
+video		- video									   Defines a video or movie
+a			- anchor 								   Defines a hyperlink
+link		- link									   Defines the relationship between a document and an external resource (most used to link to style sheets)
+nav			- mav 									   Defines navigation links
+ul			- unorderedlist							   Defines an unordered list
+ol			- orderedlist							   Defines an ordered list
+li			- list									   Defines a list item
+dir													   Not supported in HTML5. Use <ul> instead.Defines a directory list
+dl			- descriptionlist						   Defines a description list
+dt			- descriptionterm					       Defines a term/name in a description list
+dd			- descriptionname						   Defines a description of a term/name in a description list
+table		- table 								   Defines a table
+caption		- tablecaption							   Defines a table caption
+th			- headercell							   Defines a header cell in a table
+tr			- headerrow    							   Defines a row in a table
+td		 	- tablecell								   Defines a cell in a table
+thead		- tableheader							   Groups the header content in a table
+tbody		- tablebody								   Groups the body content in a table
+tfoot		- tablefooter							   Groups the footer content in a table
+col			- col									   Specifies column properties for each column within a <colgroup> element
+colgroup	- colgroup								   Specifies a group of one or more columns in a table for formatting
+style		- style									   Defines style information for a document
+div			- div									   Defines a section in a document
+span		- span 									   Defines a section in a document
+header		- header								   Defines a header for a document or section
+footer		- footer 								   Defines a footer for a document or section
+main		- main									   Specifies the main content of a document
+section		- section								   Defines a section in a document
+article		- article								   Defines an article
+aside		- aside									   Defines content aside from the page content
+details		- details								   Defines additional details that the user can view or hide
+dialog		- dialog							       Defines a dialog box or window
+summary		- summary								   Defines a visible heading for a <details> element
+data		- data									   Links the given content with a machine-readable translation
+head		- head   								   Defines information about the document
+meta		- meta									   Defines metadata about an HTML document
+base		- base									   Specifies the base URL/target for all relative URLs in a document
+basefont	- basefont								   Not supported in HTML5. Use CSS instead.Specifies a default color, size, and font 
+script		- script								   Defines a client-side script
+noscript	- noscript								   Defines an alternate content for users that do not support client-side scripts
+applet		- applet								   Not supported in HTML5. Use <embed> or <object> instead.
+embed		- embed									   Defines a container for an external (non-HTML) application
+object		- object								   Defines an embedded object
+param		- param									   Defines a parameter for an object
+
